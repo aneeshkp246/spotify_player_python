@@ -18,7 +18,7 @@ Fetch the "Client ID" and "Client Secret":
 2. Copy the "Client ID" and "Client Secret" keys.
 3. Assign the values of "Client ID" and "Client Secret" to client_id and client_secret keys respectively.
 
-The official documentation of spotify APi is [here](https://developer.spotify.com/documentation/).
+The official documentation of spotify API is [here](https://developer.spotify.com/documentation/).
 
 # Installation
 Github:
@@ -40,3 +40,12 @@ To start the bot you simply need to launch, either your terminal (Linux, Mac & W
 After that you can start it with
 
 ```python spotify_player_python.py```
+
+
+You can choose the appropriate option and enter the query and then Spotify will open and play the song.
+
+You can pull any requests if you find any error or if there is any scope of improvement.
+
+# License
+
+MIT © aneeshkp246
