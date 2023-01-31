@@ -23,7 +23,7 @@ The official documentation of spotify APi is [here](https://developer.spotify.co
 # Installation
 Github:
 
-```$ git clone https://github.com/aneeshkp246/discord_bot_py```
+```$ git clone https://github.com/aneeshkp246/spotify_player_python.git```
       
 Python Packages:
 
@@ -32,3 +32,11 @@ Python Packages:
 Or just:
 
 ```pip install spotipy```
+
+# Usage
+
+To start the bot you simply need to launch, either your terminal (Linux, Mac & Windows), or your Command Prompt ( Windows) .`
+
+After that you can start it with
+
+```python spotify_player_python.py```
