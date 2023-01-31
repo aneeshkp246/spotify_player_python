@@ -39,7 +39,7 @@ To start the bot you simply need to launch, either your terminal (Linux, Mac & W
 
 After that you can start it with
 
-```python spotify_player_python.py```
+```python spotify_music_player.py```
 
 
 You can choose the appropriate option and enter the query and then Spotify will open and play the song.
