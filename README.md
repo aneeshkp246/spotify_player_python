@@ -7,8 +7,8 @@ To use the Spotify API, we need the "Client ID" and "Client Secret" that the Spo
 
 Creating an app:
 
-1. Go to the Spotify registration page and create your Spotify account.
-2. Once  the account has been created, go to the Developers Dashboard. The Spotify Developer Terms of Service will appear. When we accept these terms, we'll be redirected to the Developers Dashboard.
+1. Go to the Spotify [registration page](https://www.spotify.com/signup) and create your Spotify account.
+2. Once  the account has been created, go to the [Developers Dashboard](https://developer.spotify.com/dashboard/applications). The Spotify Developer Terms of Service will appear. When we accept these terms, we'll be redirected to the Developers Dashboard.
 3. Click the "CREATE AN APP" button. A dialog box requesting the app's name and description will pop up.
 4. Fill in this information and click the "CREATE" button. We'll be redirected to the app overview page.
 
