@@ -18,3 +18,17 @@ Fetch the "Client ID" and "Client Secret":
 2. Copy the "Client ID" and "Client Secret" keys.
 3. Assign the values of "Client ID" and "Client Secret" to client_id and client_secret keys respectively.
 
+The official documentation of spotify APi is [here](https://developer.spotify.com/documentation/).
+
+# Installation
+Github:
+
+```$ git clone https://github.com/aneeshkp246/discord_bot_py```
+      
+Python Packages:
+
+```pip install -r requirements.txt```
+      
+Or just:
+
+```pip install spotipy```
