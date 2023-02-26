@@ -37,11 +37,11 @@ client = spotipy.Spotify(auth=resp)
 def play():
     # Extract the first result from the search results
     track = results['tracks']['items'][0]
-    print(track)
+    # print(track)
 
     # Get the URI of the track
     track_uri = track['uri']
-    print(track_uri)
+    # print(track_uri)
 
     # Start playing the track
     webbrowser.open(track_uri)
@@ -62,10 +62,10 @@ def art():
 def alb():
     # Get the first album in the list of results
     album = results["albums"]["items"][0]
-    print(album)
+    # print(album)
 
     album_uri = album['uri']
-    print(album_uri)
+    # print(album_uri)
 
     webbrowser.open(album_uri)
 
@@ -81,7 +81,7 @@ while True:
         print("Enter the name of the song you want to play")
         track_name = input()
         results = client.search(q='track:%s' % track_name, type='track')
-        print(results)
+        # print(results)
         play()
     elif choice == 2:
         print("Enter the name of the song you want to play")
